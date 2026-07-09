@@ -1,1 +1,3 @@
-mum = 1
+def main():
+    mum = 1
+main()
