@@ -21,7 +21,7 @@ OJ3394 - [LEARNING LOGS] ส่งต่อ
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-
+688276
 ```
 
 สถานะ OJ:
